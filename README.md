@@ -49,5 +49,9 @@ Player O, enter your move (row and column): 2 2
 4.Implement game logic and control flow.
 5.Enhance problem-solving and debugging skills.
 
+#**Screen Shots**
+
+https://github.com/seepanasateeshchandra/Tic-Tac-Toe/blob/main/Screenshot%202025-06-04%20094011.png
+
 
 
