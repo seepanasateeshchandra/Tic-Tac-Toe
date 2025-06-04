@@ -52,6 +52,7 @@ Player O, enter your move (row and column): 2 2
 #**Screen Shots**
 
 https://github.com/seepanasateeshchandra/Tic-Tac-Toe/blob/main/Screenshot%202025-06-04%20094011.png
+https://github.com/seepanasateeshchandra/Tic-Tac-Toe/blob/main/Screenshot%202025-06-04%20094131.png
 
 
 
